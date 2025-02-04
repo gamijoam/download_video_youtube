@@ -1,5 +1,6 @@
 *.spec
 *.pyc
+/venv
 descargarVideYoutubee_x64/src/__pycache__/
 descargarVideYoutubee_x64/dist
 descargarVideYoutubee_x64/ffmpeg
