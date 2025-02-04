@@ -1,3 +1,10 @@
 *.spec
 descargarVideYoutubee_x64/src/build/
 descargarVideYoutubee_x64/src/__pycache__/
+descargarVideYoutubee_x64/dist
+descargarVideYoutubee_x64/ffmpeg
+
+descargarVideYoutubee_x86/build
+descargarVideYoutubee_x86/dist
+descargarVideYoutubee_x86/ffmpeg
+descargarVideYoutubee_x86/src/__pycache__
